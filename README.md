@@ -8,8 +8,8 @@ I'm interested in both the practical work of turning data into useful results an
 
 ## What I'm working on
 
-- **Tsunami early assessment:** working on research in tsunami assessment for the Palestinian coast, under the supervision of Dr.Usama Kadri. 
-- **MSc studies:** continuing my postgraduate studies in Data Science at Al-Azhar University in Gaza, alongside independent study and research.
+- **Tsunami early assessment:** working on research in tsunami assessment for the Palestinian coast, under the supervision of Dr. Usama Kadri. 
+- **MSc studies:** continuing my postgraduate studies in Data Science at Al-Azhar University in Gaza, alongside research.
 
 ## Research interests
 
