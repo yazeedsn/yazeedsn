@@ -1,6 +1,6 @@
 # Hi, I'm Yazid Abusultan
 
-**Computer Engineering graduate · Data Science MSc student**
+**Data Science MSc student**
 
 I work with data and machine learning to investigate questions, build useful tools, and understand complex systems. My experience spans computer vision, medical imaging, and self-supervised learning; my current research interests center on scientific machine learning and connecting learned models with physical processes.
 
